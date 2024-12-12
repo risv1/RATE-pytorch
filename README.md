@@ -17,6 +17,11 @@ The implementation consists of the following modules:
 
 To train the RATE model, run the train.py script. This will train the model on the provided dummy data and plot the training loss and memory evolution over epochs.
 
+## Might Change or Add
+
+- Change: Probably seperate the Observations, Actions, and Returns-To-Go encoders as seperate modules.
+- Add: A CartPole demo using the RATEModel (too lazy rn)
+
 ## Citation
 
 ```bibtex
