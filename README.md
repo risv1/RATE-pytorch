@@ -2,7 +2,7 @@
 
 ![Architecture](./arch.png)
 
-This repository contains a PyTorch implementation of the Recurrent Action Transformer with Memory (RATE) model, as described in the paper "Recurrent Action Transformer with Memory" by Cherepanov et al.
+This repository contains a PyTorch implementation of the Recurrent Action Transformer with Memory (RATE) model, as described in the paper ["Recurrent Action Transformer with Memory"](https://sites.google.com/view/rate-model/).
 
 ## Components
 
